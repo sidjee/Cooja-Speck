@@ -1,0 +1,44 @@
+00:01.096	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+00:01.103	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki 3.0 started. Node id is set to 2.
+00:01.108	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.116	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+00:01.118	ID:2	Starting 'UDP client process'
+00:01.120	ID:2	2 UDP client process started
+00:01.127	ID:2	Client sending to: fe80::c30c:0:0:1 (msg: j.ji7~-?)
+00:01.208	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+00:01.215	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki 3.0 started. Node id is set to 4.
+00:01.220	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.228	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+00:01.230	ID:4	Starting 'UDP client process'
+00:01.232	ID:4	4 UDP client process started
+00:01.239	ID:4	Client sending to: fe80::c30c:0:0:1 (msg:  R6D)
+00:01.242	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+00:01.249	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki 3.0 started. Node id is set to 1.
+00:01.254	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.262	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+00:01.264	ID:1	Starting 'UDP server process'
+00:01.265	ID:1	UDP server started
+00:01.759	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+00:01.766	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki 3.0 started. Node id is set to 3.
+00:01.771	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.779	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+00:01.781	ID:3	Starting 'UDP client process'
+00:01.783	ID:3	3 UDP client process started
+00:01.790	ID:3	Client sending to: fe80::c30c:0:0:1 (msg: |U:i\gra)
+00:16.130	ID:2	Client sending to: fe80::c30c:0:0:1 (msg: j.ji7~-?)
+00:16.242	ID:4	Client sending to: fe80::c30c:0:0:1 (msg:  R6D)
+00:16.380	ID:1	**Server Receive event**
+00:16.385	ID:1	Server received a MESSAGE of 9 bytes: 4
+00:16.474	ID:4	1: received a broadcast of 9 bytes: 4
+00:16.487	ID:2	1: received a broadcast of 9 bytes: 4
+00:16.793	ID:3	Client sending to: fe80::c30c:0:0:1 (msg: |U:i\gra)
+00:16.878	ID:1	**Server Receive event**
+00:16.883	ID:1	Server received a MESSAGE of 9 bytes: 2
+00:17.130	ID:1	**Server Receive event**
+00:17.135	ID:1	Server received a MESSAGE of 9 bytes: 3
+00:17.351	ID:4	2: received a broadcast of 9 bytes: 2
+00:17.364	ID:2	2: received a broadcast of 9 bytes: 2
+00:17.401	ID:3	1: received a broadcast of 9 bytes: 2
+00:17.601	ID:4	3: received a broadcast of 9 bytes: 3
+00:17.614	ID:2	3: received a broadcast of 9 bytes: 3
+00:17.653	ID:3	2: received a broadcast of 9 bytes: 3
