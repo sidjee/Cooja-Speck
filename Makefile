@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = mqtt-sn-project
+CONTIKI_PROJECT = mqtt-sn
 all: $(CONTIKI_PROJECT)
 
 CONTIKI = ../..
